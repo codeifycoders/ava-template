@@ -5,6 +5,8 @@
 Bellow this line PHP content
 <hr>
 <?php 
-echo "Example code from php script<br/>";
+ 
 
-echo date();
+phpinfo();
+
+?>
